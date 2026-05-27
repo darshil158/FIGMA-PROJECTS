@@ -319,6 +319,7 @@
     object-fit: cover;
 }
 
+
 .card2-img {
     display: flex;
     justify-content: center;
@@ -356,7 +357,12 @@
     height: 54px;
     font-size: 18px;
     line-height: 150%;
+    color: #1A1E26;
+    margin-bottom: 8px;
+}
+.c4 .card2-title {
     color: white;
+    
 }
 .card2-text{
     color: rgb(255, 255, 255 , 0.7);
@@ -766,10 +772,17 @@
 .sec1-title{
     font-size: 64px;
     width: 789px;
-    height: 210px;
+    /* height: 210px; */
     line-height: 110%;
     letter-spacing: -4px;
     font-weight: 600;
+    color: #1A1E26;
+    
+}
+.sect1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
 }
 .sect1-text{
     font-size: 16px;
@@ -792,7 +805,7 @@
     height: 56px;
     margin-bottom: 32px;
 }
-.card4 h2{
+.sec1 h2{
     color: #1A1E26;
     font-family: Lexend;
     font-size: 24px;
