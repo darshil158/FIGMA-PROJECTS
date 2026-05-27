@@ -922,9 +922,13 @@
     font-weight: 600;
     
 }
-.weed-edu-head span{
-    position: absolute;
-    right: 0;
+.weed-edu-head a{
+    /* position: absolute;
+    right: 0; */
+    display: flex;
+    align-items: right;
+    align-content: right;
+    margin: auto;
 }
 .card8{
     width: 100%;
