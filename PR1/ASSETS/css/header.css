@@ -1,0 +1,149 @@
+/*HEADER*/
+.offer {
+    width: 100%;
+    height: 37px;
+    background-color: #05422C;
+    font-size: 14px;
+    font-family: Lexend;
+    line-height: 150%;
+}
+
+.limited-offer {
+    color: rgb(255, 255, 255, 0.7);
+    width: 371px;
+    margin-right: 16px;
+}
+
+.navbar {
+    height: 76px;
+    width: 100%;
+    font-family: Lexend;
+    background-color: #ffffff;
+}
+
+.logo {
+    width: 270px;
+    height: 40px;
+    margin-left: 64px;
+}
+
+.navbar-brand {
+    width: 270px;
+    height: 40px;
+}
+
+.search {
+    width: 456px;
+    height: 48px;
+}
+
+.form {
+    width: 400px;
+    margin-right: 8px;
+    font-size: 16px;
+    border-radius: 25px;
+    padding: 4px;
+    padding-left: 24px;
+    border: 1px solid #F4F4F4;
+}
+
+.form::placeholder {
+    color: #C8C9CB;
+}
+
+.search-btn {
+    border-radius: 50%;
+    background-color: #17AF26;
+    color: white;
+    border: 0;
+    width: 48px;
+    height: 48px;
+
+}
+
+.login {
+    font-family: Lexend;
+    color: #46494F;
+    width: 270px;
+    height: 24px;
+    margin-right: 64px;
+}
+
+.profile {
+    font-size: 14px;
+    width: 91px;
+    height: 21px;
+    margin-right: 24px;
+    color: #46494F;
+}   
+
+.cart {
+    width: 16px;
+    height: 16px;
+    border: 0;
+    background-color: white;
+    margin-left: 24px;
+    text-decoration: none;
+}
+.cart img{
+    width: 24px;
+    height: 24px;
+}
+.categories {
+    width: 100%;
+    height: 56px;
+    background-color: #ffffff;
+    border-top: 1px solid #F4F4F4;
+    font-family: Lexend;
+    font-size: 14px;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.common {
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #46494F;
+    margin-right: 40px;
+    align-content: center;
+}
+
+.category1 {
+    width: 64px;
+}
+
+.category2 {
+    width: 52px;
+}
+
+.category3 {
+    width: 56px;
+}
+
+.category4 {
+    width: 104px;
+}
+
+.category5 {
+    width: 89px;
+}
+
+.category6 {
+    width: 159px;
+}
+
+.category7 {
+    width: 63px;
+}
+
+.category8 {
+    width: 67px;
+}
+
+.category9 {
+    width: 35px;
+}

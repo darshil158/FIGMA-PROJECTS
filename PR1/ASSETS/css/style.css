@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Lexend;
+}
+ff-l{
+    font-family: Lexend;
+}
+.font-16 {
+    font-size: 16px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.font-12 {
+    font-size: 12px;
+}
+.font-24 {
+    font-size: 24px;
+}
+.font-32 {
+    font-size: 32px;
+}
+.font-48 {
+    font-size: 48px;
+}
+.font-64 {
+    font-size: 64px;
+}
+.f-400 {
+    font-weight: 400;
+}
+.f-600 {
+    font-weight: 600;
+}
+
