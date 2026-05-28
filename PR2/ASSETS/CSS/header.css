@@ -1,0 +1,66 @@
+/* NAVBAR */
+
+.navbar {
+    background-color: var(--primary-color);
+    padding-left: 32px;
+    padding-right: 32px;
+    height: 52px;
+
+}
+
+.nav-item .nav-link {
+    color: #8C94A3;
+    font-family: var(--font-family);
+
+}
+
+.nav-item .nav-link:hover {
+    color: var(--white-color);
+    font-family: var(--font-family);
+
+}
+
+.nav-item #active {
+    color: var(--white-color);
+}
+
+.dropdown a {
+    color: #A1A5B3;
+}
+
+.navbar span {
+    color: var(--white-color);
+    background-color: color;
+}
+
+.navbar-nav {
+    column-gap: 10px;
+    padding: 16px;
+}
+
+
+/* SECTION 2 */
+
+.nav-sec-2 {
+    background-color: var(--white-color);
+    height: 96px;
+    padding: 32px 24px 32px 24px;
+    font-family: var(--font-family);
+}
+
+.icons .navBtn {
+    border: none;
+    background-color: var(--white-color);
+}
+
+.login button {
+    border: none;
+}
+
+.createAcc {
+    margin-right: 12px;
+}
+
+.overlay p {
+    color: #4E5566;
+}
